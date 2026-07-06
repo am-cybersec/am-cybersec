@@ -1,6 +1,14 @@
-# 💫 About Me:
-# Hi, I'm Areeba Minahil 👋<br><br>🎓 CS Student @ COMSATS University Islamabad (2023–2027)  <br>🔐 Aspiring Ethical Hacker | Penetration Tester | AI Developer  <br>🌍 Pakistan | Open to Remote Work Globally  <br><br>---<br><br>## 🔐 Cybersecurity Journey<br>- 🏢 Deloitte Cyber Virtual Internship — Completed<br>- 🎓 Harvard CS50 Cybersecurity — In Progress<br>- 💻 TryHackMe — Daily Labs (Offensive & Defensive Security)<br>- 🐧 Kali Linux — Active Setup<br>- 🛠️ Built: NetRecon, AES Tool, Password Analyzer, Blacklist Scanner<br><br>## 🤖 AI & Development<br>- 🎙️ AI Voice Agent — Hospital Appointment Booking (Vapi + Google Calendar)<br>- 🖐️ Visual Touch Designer — Hand Gesture Paint Tool<br>- 🌐 Full Stack Apps — React + MongoDB + Node.js<br><br>## 📜 Certifications<br>- Harvard CS50 Cybersecurity<br>- Deloitte Cyber Virtual Internship<br>- Google — Python | AI | Cloud | Databricks | Gemini | Microsoft<br><br>## 📫 Connect<br>- 💼 [LinkedIn](https://www.linkedin.com/in/areeba-minahil-60bbb0337)<br>- 📧 minahilareeba53@gmail.com<br><br>---<br>*Building at the intersection of cybersecurity and AI* 🚀
-
+## 💫 About Me
+🎓 CS Student @ COMSATS University Islamabad (2023–2027)
+🔐 Aspiring Ethical Hacker | Penetration Tester | AI Developer
+🌍 Pakistan | Open to Remote Work Globally
+**Cybersecurity:** Deloitte Cyber Virtual Internship ✅ | Harvard CS50 Cybersecurity 🔄 | TryHackMe Daily Labs | Kali Linux Active Setup
+**Built:** NetRecon · AES Encryption Tool · Password Analyzer · IP Blacklist Scanner
+**AI & Dev:** AI Voice Agent (Vapi + Google Calendar) · Visual Touch Designer · React + MongoDB Apps
+**Certifications:** Google — Python | AI | Cloud | Databricks | Gemini | Microsoft
+📧 minahilareeba53@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/areeba-minahil-60bbb0337)
+---
+*Building at the intersection of cybersecurity and AI* 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/areeba-minahil-60bbb0337) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fa23-bcs-380@students.cuisahiwal.edu.pk) 
