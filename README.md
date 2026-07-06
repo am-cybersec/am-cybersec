@@ -1,14 +1,6 @@
-## 💫 About Me
-🎓 CS Student @ COMSATS University Islamabad (2023–2027)
-🔐 Aspiring Ethical Hacker | Penetration Tester | AI Developer
-🌍 Pakistan | Open to Remote Work Globally
-**Cybersecurity:** Deloitte Cyber Virtual Internship ✅ | Harvard CS50 Cybersecurity 🔄 | TryHackMe Daily Labs | Kali Linux Active Setup
-**Built:** NetRecon · AES Encryption Tool · Password Analyzer · IP Blacklist Scanner
-**AI & Dev:** AI Voice Agent (Vapi + Google Calendar) · Visual Touch Designer · React + MongoDB Apps
-**Certifications:** Google — Python | AI | Cloud | Databricks | Gemini | Microsoft
-📧 minahilareeba53@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/areeba-minahil-60bbb0337)
----
-*Building at the intersection of cybersecurity and AI* 🚀
+# 💫 About Me:
+💫 About Me<br>🎓 CS Student @ COMSATS University Islamabad (2023–2027)<br>🔐 Aspiring Ethical Hacker | Penetration Tester | AI Developer<br>🌍 Pakistan | Open to Remote Work Globally<br><br>**Cybersecurity:** Deloitte Cyber Virtual Internship ✅ | Harvard CS50 Cybersecurity 🔄 | TryHackMe Daily Labs | Kali Linux Active Setup<br>**Built:** NetRecon · AES Encryption Tool · Password Analyzer · IP Blacklist Scanner<br>**AI & Dev:** AI Voice Agent (Vapi + Google Calendar) · Visual Touch Designer · React + MongoDB Apps<br>**Certifications:** Google — Python | AI | Cloud | Databricks | Gemini | Microsoft<br><br>📧 minahilareeba53@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/areeba-minahil-60bbb0337)<br><br>*Building at the intersection of cybersecurity and AI* 🚀
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/areeba-minahil-60bbb0337) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fa23-bcs-380@students.cuisahiwal.edu.pk) 
@@ -19,9 +11,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=am-cybersec&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=am-cybersec&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=am-cybersec&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=am-cybersec&limit=5&theme=dark&combine_all_yearly_contributions=true)
